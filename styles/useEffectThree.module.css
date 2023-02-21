@@ -1,0 +1,42 @@
+.maincontent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+.homelink{
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.title{
+
+    font-size: 75px;
+    border: 1px solid black;
+}
+
+.number{
+  
+    font-size: xx-large;
+}
+
+.button{
+    text-decoration: none;
+    background-color: transparent;
+    border-radius: 5px;
+    border: 1px solid var(--quaternary-color);
+ 
+}
+
+.button:hover{
+    background-color: var(--secondary-color);
+    color: var(--primary-color);
+}

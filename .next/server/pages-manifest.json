@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/useEffectOne": "pages/useEffectOne.js",
+  "/useEffectThree": "pages/useEffectThree.js",
+  "/carouselPage": "pages/carouselPage.js",
+  "/useEffectTwo": "pages/useEffectTwo.js",
+  "/": "pages/index.js"
+}

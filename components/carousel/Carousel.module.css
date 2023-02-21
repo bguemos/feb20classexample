@@ -1,0 +1,7 @@
+.images{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid var(--ternary-color);
+}
